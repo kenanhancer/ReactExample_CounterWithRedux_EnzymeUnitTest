@@ -1,2 +1,0 @@
-# ReactExample_CounterWithRedux_EnzymeUnitTest
-Created with CodeSandbox
